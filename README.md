@@ -20,8 +20,8 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Minipo
 
 ## App Links
 
-- [Eleventy Html5UP Miniport](https://eleventy-html5up-miniport.appseed.us) - Live DEMO
-- [Eleventy Html5UP Miniport](https://appseed.us/static-site/eleventy-html5up-miniport) - Product Info
+- **[Eleventy Html5UP Miniport](https://eleventy-html5up-miniport.appseed.us)** - Live DEMO
+- **[Eleventy Html5UP Miniport](https://appseed.us/static-site/eleventy-html5up-miniport)** - Product Info
 
 <br />
 
